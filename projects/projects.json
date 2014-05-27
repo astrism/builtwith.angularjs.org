@@ -3580,7 +3580,33 @@
         "No jQuery",
         "Bootstrap"
       ]
+    },
+    {
+      "name": "God Hates Charades",
+      "thumb": "godhatescharades/thumb.jpg",
+      "desc": "God Hates Charades is a fast past acting and guessing game full of pop culture, crude humor, jokes, and embarrassing scenarios. The game mixes the absurdity and laugh out loud funniness of Cards Against Humanity with the visceral experience of improv acting.",
+      "url": "http://godhatescharades.com",
+      "info": "http://godhatescharades.com/blog",
+      "src": "https://github.com/astrism/GodHatesCharades",
+      "submitter": "astrism",
+      "submissionDate": "2014-05-26",
+      "tags": [
+        "Production",
+        "Game",
+        "Parse",
+        "UI Router",
+        "UI Bootstrap",
+        "Restangular",
+        "Prismic.io",
+        "Grunt",
+        "MongoDB",
+        "Responsive",
+        "CSS3",
+        "HTML5",
+        "Bootstrap",
+        "No jQuery",
+        "Open Source"
+      ]
     }
-
   ]
 }
